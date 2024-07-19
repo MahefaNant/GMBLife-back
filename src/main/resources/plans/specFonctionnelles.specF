@@ -1,0 +1,69 @@
+1/ INTRO
+    1.1/ contexte
+        Ce document décrit les spécifications fonctionnelles de plusieurs fonctionnalités pour l'application GMBLife, y compris l'authentification, la réinitialisation de mot de passe, la gestion de profil , Suivi des dépenses et revenus , Budgetisation , notifications ,  les graphiques et rapports.
+
+    2.2/ Objectif
+        L'objectif est de fournir une vue détaillée des exigences fonctionnelles nécessaires pour implémenter ces fonctionnalités de manière sécurisée et efficace.
+
+    
+2/ Fonctionnalités
+    2.1/ authentification
+        - Inscription (back: no| front: no)  
+        - Login (back: no| front: no)
+        - forgot password  (back: no| front: no)
+
+    2.2/ recette
+        - listes filtrer (back: no| front: no)
+        - insertion 
+            - categorie (back: no| front: no)
+            - recette (back: no| front: no)
+        - modification
+            - categorie (back: no| front: no)
+            - recette (back: no| front: no)
+        - supression
+            - categorie (back: no| front: no)
+            - recette (back: no| front: no)
+
+
+    2.3/ depense
+        - listes filtrer (back: no| front: no)
+        - insertion 
+            - categorie (back: no| front: no)
+            - recette (back: no| front: no)
+        - modification
+            - categorie (back: no| front: no)
+            - recette (back: no| front: no)
+        - supression
+            - categorie (back: no| front: no)
+            - recette (back: no| front: no)
+
+    2.4/ someone money
+        - listes filtrer (back: no| front: no)
+        - insertion (back: no| front: no)
+        - modification (back: no| front: no)
+        - supression (back: no| front: no)
+
+    2.5/ recette prévue [ eg: salaire prime ]
+        - listes filtrer (back: no| front: no)
+        - notification si proche ou non jours J
+        - bouton ajouté au compte 
+
+    2.6/ depense prévue [ eg: gift ]
+        - listes filtrer (back: no| front: no)
+        - notification si proche ou non jours J
+        - bouton payée
+
+    2.7/ Budget mensuel / anuelle 
+        - add (back: no| front: no)
+        - verification dépassement, reste et normal mensuel / anuelle (back: no| front: no)
+
+    2.8/ statistique
+        - statistique dépenses posé par rapports au réel (back: no| front: no)
+        - recettes : mensuel et anuelle (back: no| front: no)
+        - dépenses : mensuel et anuelle (back: no| front: no)
+        - dépenses with recette and total : mensuel et anuelle (back: no| front: no)
+        - bénefice mensuel et anuelle (back: no| front: no)
+        - categ recette le plus élevé ( sort) : mensuel et anuelle (back: no| front: no)
+        - categ dépense le plus élevé ( sort) : mensuel et anuelle (back: no| front: no)
+        - facteur recette le plus élevé ( sort) : mensuel et anuelle (back: no| front: no)
+        - facteur dépense le plus élevé ( sort) : mensuel et anuelle (back: no| front: no)
